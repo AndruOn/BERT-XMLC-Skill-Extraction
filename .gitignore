@@ -9,6 +9,11 @@ __pycache__/
 # Dataset
 pybert/dataset/
 
+#ANDRU
+data/
+venv_310_64bit/
+
+
 # Checkpoints
 # pybert/output/checkpoints/bert/
 # pybert/pretrain/
