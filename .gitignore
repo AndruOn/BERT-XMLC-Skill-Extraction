@@ -12,6 +12,7 @@ pybert/dataset/
 #ANDRU
 data/
 venv_310_64bit/
+*.csv
 
 
 # Checkpoints
